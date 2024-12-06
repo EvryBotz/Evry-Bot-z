@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest  
 
     steps:
-      # Langkah 1: Checkout kode dari repositori
+     Checkout kode dari repositori
       - name: Checkout code
         uses: actions/checkout@v2  
 
